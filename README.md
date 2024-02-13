@@ -1,5 +1,11 @@
 ### Hola, I'm Abu Sayem 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BinaryBeast007/BinaryBeast007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BinaryBeast007/BinaryBeast007/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BinaryBeast007/BinaryBeast007/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BinaryBeast007&show_icons=true&count_private=true&theme=dark" alt="BinaryBeast007" />  
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBeast007&layout=compact&theme=dark" alt="BinaryBeast007" /> 
